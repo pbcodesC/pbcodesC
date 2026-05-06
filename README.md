@@ -1,22 +1,15 @@
-# Hi 👋, I'm Payal Badgotri
+Hi, I'm Payal Badgotri
+About Me
 
-## 💻 About Me
-- 🎓 CSE Student
-- 🌱 Currently learning DevOps, Kubernetes, Linux
-- 💡 Interested in Web Development & Open Source
-- 🚀 Building projects and improving daily
+CSE student passionate about DevOps, Kubernetes, Linux, Web Development, and Open Source. Currently focused on building projects, improving problem-solving skills, and contributing to real-world development workflows.
 
-## 🔧 Tech Stack
-- 💻 Languages: C++, Python, JavaScript
-- 🌐 Web: HTML, CSS, React 
-- ⚙️ Tools: Git, GitHub, VS Code
+Tech Stack
 
-## 📊 GitHub Stats
-![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbcodesC&show_icons=true)
+Languages: C++, Python, JavaScript
+Web: HTML, CSS, React
+DevOps & Cloud: Docker, Kubernetes, AWS
+Tools: Git, GitHub, VS Code
 
-## 🔗 Connect with me
-- LinkedIn: www.linkedin.com/in/
-payal-badgotri-aa8159304
+Connect
 
-
-- Going with the flow 😄
+LinkedIn: www.linkedin.com/in/payal-badgotri-aa8159304
