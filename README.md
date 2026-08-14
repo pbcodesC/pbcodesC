@@ -1,7 +1,7 @@
 Hi, I'm Payal Badgotri
 
 
-pre final year cs student passionate about DevOps, Kubernetes, Linux, Web Development, and Open Source. Currently focused on building projects, improving problem-solving skills, and contributing to real-world development workflows.
+Pre final year cs student passionate about DevOps, Kubernetes, Linux, Web Development, and Open Source. Currently focused on building projects, improving problem-solving skills, and contributing to real-world development workflows.
 
 Tech Stack
 
