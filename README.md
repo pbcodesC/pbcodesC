@@ -6,7 +6,8 @@ Pre final year cs student passionate about DevOps, Kubernetes, Linux, Web Develo
 Tech Stack
 
 Languages: C++, Python, JavaScript
-Web: HTML, CSS, React
+Web: HTML, CSS, React, typescript
+backend : nodejs , expressjs,django
 DevOps & Cloud: Docker, Kubernetes, AWS
 Tools: Git, GitHub, VS Code
 
